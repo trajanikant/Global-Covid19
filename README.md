@@ -5,8 +5,11 @@ This repo will host the most extensive Covid19 data extracted from countries all
 Countries that will be updated daily :
 
 Belgium
+
 Brazil
+
 Canada
+
 China
 Ecuador
 France
