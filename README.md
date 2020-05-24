@@ -11,25 +11,43 @@ Brazil
 Canada
 
 China
+
 Ecuador
+
 France
+
 Germany
+
 India
+
 Iran 
+
 Ireland
+
 Italy
+
 Japan
+
 Netherlands
+
 Norway
+
 Peru
+
 Portugal
+
 Russia
+
 Saudi Arabia
+
 South Africa
+
 Spain
+
 Switzerland
+
 Turkey
+
 UK
+
 USA
-
-
